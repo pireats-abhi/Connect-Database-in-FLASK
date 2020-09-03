@@ -1,0 +1,5 @@
+mysql_host: 'localhost'
+mysql_port: 3306
+mysql_user: 'newuser'
+mysql_password: 'qwerty12345678'
+mysql_db: 'flasktest'
